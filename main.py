@@ -17,3 +17,6 @@ if materia in notas:
   print(f"A nota de {materia} é {nota}.")
 else:
   print("Matéria não encontrada!")
+
+
+# fim
